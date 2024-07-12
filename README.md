@@ -11,8 +11,8 @@ This project demonstrates an application that detects human faces from a webcam 
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/face-extraction.git
-    cd face-extraction
+    git clone https://github.com/jayaverma21/Crop-Face-Using-Cvzone.git
+    cd Crop-Face-Using-Cvzone
     ```
 
 2. Install the required package:
